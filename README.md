@@ -1,13 +1,12 @@
 # Progetto-finale-2020-Trannoi
-Template progetto finale per l'esame di Programmazione Procedurale con Laboratorio a.a. 2020-2021.
-
-Inserire
-
-Nome:
-
-Cognome:
-
-Matricola:
+Programmazione Procedurale con Laboratorio a.a. 2020-2021.
 
 
-ed eventuali note sulla realizzazione del progetto, come nuove funzionalità aggiunte o modificate rispetto al testo del progetto assegnato.
+Nome: Tiziano
+
+Cognome: Marchetti
+
+Matricola: 336954
+
+
+Aggiunti rispetto al progetto originale soltanto dei mini-giochi per la risoluzione delle quest.
